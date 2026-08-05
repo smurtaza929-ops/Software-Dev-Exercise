@@ -78,7 +78,7 @@ FLASK_APP=web_app flask run
 export FLASK_APP=web_app
 flask run
 ```
-
+# 'ctrl + c' to stop and 'flask run' to start again when updates made in flask web app, must restart the web server
 
 ## Testing
 
