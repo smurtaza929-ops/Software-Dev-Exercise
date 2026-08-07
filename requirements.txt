@@ -1,4 +1,4 @@
-
+# tells what packages required
 
 python-dotenv
 
@@ -10,3 +10,8 @@ pytest
 
 # web app:
 flask
+
+# required by production server only
+
+gunicorn
+
